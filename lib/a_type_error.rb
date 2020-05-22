@@ -1,3 +1,4 @@
 1 + 1
 
-def "is the loneliest number"
+def sad_numbers ("is the loneliest number")
+end
